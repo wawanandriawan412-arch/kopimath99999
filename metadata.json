@@ -1,0 +1,5 @@
+{
+  "name": "KopiMath",
+  "description": "Aplikasi belajar matematika operasi campuran (tambah, kurang, kali, bagi) yang disesuaikan untuk pelajar SMP dengan kesibukan membantu orang tua (bertani kopi, mencari rumput). Menggunakan AI untuk generate soal yang relevan dengan keseharian.",
+  "requestFramePermissions": []
+}
